@@ -9,7 +9,7 @@ head:
 ---
 
 # {{ $frontmatter.title }}
-
+g
 _Last update: February 2023_
 
 ## Supported browsers
